@@ -26,23 +26,23 @@
 </ul>
 <p style="font-size: 16px;"><strong>Phần 3: Giao diện chương trình tham khảo</strong></p>
 <p style="font-size: 16px;">Menu:</p>
-<img src="#" alt="File preview"></p>
+<img src="https://github.com/NguyenDuongw/HumanResources/blob/main/image/description11.JPG" alt="File preview"></p>
 <p style="font-size: 16px;">Hiển thị danh sách nhân viên hiện có trong công ty.</p>
-<img src="#" alt="File preview"></p>
+<img src="https://github.com/NguyenDuongw/HumanResources/blob/main/image/description12.JPG" alt="File preview"></p>
 <p style="font-size: 16px;">Hiển thị các bộ phận trong công ty.</p>
-<img src="#" alt="File preview"></p>
+<img src="https://github.com/NguyenDuongw/HumanResources/blob/main/image/description13.JPG" alt="File preview"></p>
 <p style="font-size: 16px;">Hiển thị các nhân viên theo từng bộ phận:</p>
-<img src="#" alt="File preview"></p>
+<img src="https://github.com/NguyenDuongw/HumanResources/blob/main/image/description14.JPG" alt="File preview"></p>
 <p style="font-size: 16px;">Thêm nhân viên thông thường:</p>
-<img src="#" alt="File preview"></p>
+<img src="https://github.com/NguyenDuongw/HumanResources/blob/main/image/description15.JPG" alt="File preview"></p>
 <p style="font-size: 16px;">Thêm nhân viên là cấp quản lý (có thêm chức vụ)</p>
-<img src="#" alt="File preview"></p>
+<img src="https://github.com/NguyenDuongw/HumanResources/blob/main/image/description16.JPG" alt="File preview"></p>
 <p style="font-size: 16px;">Tìm kiếm thông tin nhân viên theo tên hoặc mã nhân viên</p>
-<img src="#" alt="File preview"></p>
+<img src="https://github.com/NguyenDuongw/HumanResources/blob/main/image/description17.JPG" alt="File preview"></p>
 <p style="font-size: 16px;">Hiển thị bảng lương của nhân viên toàn công ty</p>
-<img src="#" alt="File preview"></p>
+<img src="https://github.com/NguyenDuongw/HumanResources/blob/main/image/description18.JPG" alt="File preview"></p>
 <p style="font-size: 16px;">Hiển thị bảng lương của nhân viên theo thứ tự tăng dần</p>
-<img src="#" alt="File preview"></p>
+<img src="https://github.com/NguyenDuongw/HumanResources/blob/main/image/description19.JPG" alt="File preview"></p>
 
 
 
